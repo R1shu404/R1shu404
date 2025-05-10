@@ -38,7 +38,7 @@
 <h3 align="center">💻 My Tech Comfort Zone 🛠️</h3>
 
 <p align="center">
-  While I'm diving deep into low-level stuff, I'm quite comfortable working with:
+  While I'm attempting to dive deep into low-level stuff, I'm quite comfortable working with:
 </p>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
