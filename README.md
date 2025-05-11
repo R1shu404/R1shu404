@@ -72,7 +72,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect with Me (or just say Hi!!)</h3>
+<h3 align="center">🌐 Connect with Me (or just say Hi!!) :</h3>
 
 <p align="center">
   I'm always open to connecting with fellow learners and curious minds! <br>
