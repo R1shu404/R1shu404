@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">🙏 Sat Saheb  🙏</h1>
-<h2 align="center">Hi there, I'm Rishi! 👋</h2>
+<h2 align="center">Hi there, I'm Rishi!</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=R1shu404&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
