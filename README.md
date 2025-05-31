@@ -3,7 +3,7 @@
     <img src="https://www.jagatgururampalji.org/theme/alpha-v-1.0-2024/assets/img/logo.webp" alt="Sant Rampal Ji Maharaj Logo" width="150">
   </a>
 </p>
-<h1 align="center">🙏 ! Sat Saheb ! 🙏</h1>
+<h1 align="center">🙏 Sat Saheb 🙏</h1>
 <h2 align="center">Hi there, I'm Rishi!!</h2>
 
 <p align="center">
